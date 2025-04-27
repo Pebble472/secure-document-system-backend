@@ -1,1 +1,12 @@
+D:\Users\pierr\secure-document-system\backend\src\main\java\com\securedocs\controller\DocumentController.java
+D:\Users\pierr\secure-document-system\backend\src\main\java\com\securedocs\controller\FolderController.java
 D:\Users\pierr\secure-document-system\backend\src\main\java\com\securedocs\SecureDocsApplication.java
+D:\Users\pierr\secure-document-system\backend\src\main\java\com\securedocs\service\impl\FolderServiceImpl.java
+D:\Users\pierr\secure-document-system\backend\src\main\java\com\securedocs\model\Folder.java
+D:\Users\pierr\secure-document-system\backend\src\main\java\com\securedocs\service\FolderService.java
+D:\Users\pierr\secure-document-system\backend\src\main\java\com\securedocs\model\ShareLink.java
+D:\Users\pierr\secure-document-system\backend\src\main\java\com\securedocs\service\DocumentService.java
+D:\Users\pierr\secure-document-system\backend\src\main\java\com\securedocs\service\impl\DocumentServiceImpl.java
+D:\Users\pierr\secure-document-system\backend\src\main\java\com\securedocs\config\SecurityConfig.java
+D:\Users\pierr\secure-document-system\backend\src\main\java\com\securedocs\config\WebConfig.java
+D:\Users\pierr\secure-document-system\backend\src\main\java\com\securedocs\model\Document.java
